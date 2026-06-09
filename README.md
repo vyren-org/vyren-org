@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🚀 Oleh Tsvietkov
 
-<!--
-**vyren-org/vyren-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Telegram Mini Apps Architect
 
-Here are some ideas to get you started:
+Building next-generation products inside Telegram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇦🇹 Austria
+
+Most people use Telegram to communicate.
+
+I use Telegram to build products.
+
+From AI Agents and SaaS platforms to marketplaces, automation systems, retention engines and monetization ecosystems.
+
+⚡ Current Focus
+
+- Telegram Mini Apps
+- AI Agents
+- Workflow Automation
+- Product Architecture
+- User Retention Systems
+- LangGraph
+- Codex-Powered Development
+
+---
+
+## 🛠 Stack
+
+Python · OpenAI · Codex · LangGraph · n8n · Telegram API · PostgreSQL · Supabase · Webhooks · Stripe · Docker · Git · FastAPI
+
+---
+
+### 🧬 Philosophy
+
+I don't build bots.
+
+I build products.
+
+Every button should have a purpose.
+
+Every workflow should create value.
+
+Every product should give users a reason to come back tomorrow.
+
+---
+
+📩 tsvietkov20@gmail.com
+
+🇦🇹 Austria
