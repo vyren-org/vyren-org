@@ -20,7 +20,7 @@ From AI Agents and SaaS platforms to marketplaces, automation systems, retention
 - Product Architecture
 - User Retention Systems
 - LangGraph
-- Codex-Powered Development
+- AI Product Development
 
 ---
 
