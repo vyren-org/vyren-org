@@ -1,49 +1,91 @@
 # 🚀 Oleh Tsvietkov
 
-### Telegram Mini Apps Architect
+# AI Systems Engineer · Telegram Mini Apps · AI Automation
 
-Building next-generation products inside Telegram.
+I design and build AI-powered products that automate real business workflows.
+
+My focus is creating Telegram Mini Apps, AI agents and workflow systems that connect LLMs with real users, APIs and business processes.
 
 🇦🇹 Austria
 
-Most people use Telegram to communicate.
+---
 
-I use Telegram to build products.
+## What I Build
 
-From AI Agents and SaaS platforms to marketplaces, automation systems, retention engines and monetization ecosystems.
+• AI Agent Systems
+• Telegram Mini Apps
+• Workflow Automation
+• AI-powered SaaS
+• Business Process Automation
+• Internal AI Tools
+• Customer Portals
+• AI Integrations
 
-⚡ Current Focus
+---
+
+## Current Focus
 
 - Telegram Mini Apps
 - AI Agents
-- Workflow Automation
-- Product Architecture
-- User Retention Systems
 - LangGraph
-- AI Product Development
+- OpenAI Agents
+- Workflow Orchestration
+- Human-in-the-Loop Systems
+- Product Architecture
+- AI Engineering
 
 ---
 
-## 🛠 Stack
+## Tech Stack
 
-Python · OpenAI · Codex · LangGraph · n8n · Telegram API · PostgreSQL · Supabase · Webhooks · Stripe · Docker · Git · FastAPI
-
----
-
-### 🧬 Philosophy
-
-I don't build bots.
-
-I build products.
-
-Every button should have a purpose.
-
-Every workflow should create value.
-
-Every product should give users a reason to come back tomorrow.
+Python • FastAPI • OpenAI • Codex • LangGraph • n8n • Telegram Bot API • PostgreSQL • SQLite • Supabase • Docker • Git • Webhooks • Stripe
 
 ---
 
-📩 tsvietkov20@gmail.com
+## Engineering Principles
 
-🇦🇹 Austria
+• Build products, not demos.
+• Automation must save real time.
+• Every workflow should be measurable.
+• AI should stay under human control.
+• Simplicity scales better than complexity.
+
+---
+
+## Current Projects
+
+🚀 VYREN.OS  
+AI Operating System for personal productivity and AI workflows.
+
+📨 MailRoom  
+AI-powered email assistant for analysis, prioritization and automated responses.
+
+🤖 Telegram Agent Platform  
+Multi-agent architecture inside Telegram Mini Apps.
+
+🦷 AI Business Systems  
+Custom AI solutions for clinics, local businesses and service companies.
+
+---
+
+## Open To
+
+✔ AI Engineering
+
+✔ AI Automation
+
+✔ Telegram Mini Apps
+
+✔ AI Integrations
+
+✔ Workflow Systems
+
+✔ Product Engineering
+
+---
+
+📩 **Contact**
+
+Email: **tsvietkov20@gmail.com**
+
+Location: **Austria 🇦🇹**
